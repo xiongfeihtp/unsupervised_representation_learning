@@ -1,8 +1,17 @@
 # unsupervised_representation_learning
 some unsupervised_representation_learning algorithm for logo similarity calculate
 
-1, auto encoder
+auto_encoder
+  auto encoder
 
-2, rotnet from raw_paper with batch normalization added to Alexnet
+auto_encoder_batch_norm
+  auto encoder with batch normalization
+  
+rotnet_paper
+  rotnet from raw_paper with batch normalization added to Alexnet
 
-3, rotnet from with raw Alexnet
+Rotnet_paper
+  rotnet from with raw Alexnet
+  
+Rotnet_final
+  rotnet with visiable
